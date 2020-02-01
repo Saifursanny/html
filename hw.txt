@@ -1,0 +1,118 @@
+    1  clear
+    2  clear
+    3  cd
+    4  pwd
+    5  cd Project
+    6  pwd
+    7  cd Html
+    8  ls
+    9  cd
+   10  cd Project/html
+   11  cd
+   12  clear
+   13  cd
+   14  pwd
+   15  cd Project/Html/
+   16  pwd
+   17  cd ..
+   18  pwd
+   19  cd ../..
+   20  ls
+   21  mkdir linux
+   22  ls
+   23  cd
+   24  pwd
+   25  cd Project/
+   26  ls
+   27  mkdir linux
+   28  ls
+   29  cd linux
+   30  pwd
+   31  cd mkdir sunny
+   32  ls
+   33  cd
+   34  clear
+   35  cd
+   36  cd linux
+   37  pwd
+   38  cd
+   39  clear
+   40  cd
+   41  cd Project/linux
+   42  pwd
+   43  cd mkdir sunny
+   44  pwd
+   45  mkdir sunny
+   46  ls
+   47  pwd
+   48  clear
+   49  history
+   50  clear
+   51  clear
+   52  cd
+   53  pwd
+   54  clear
+   55  cd
+   56  cd Project/linux/
+   57  pwd
+   58  mkdir HW
+   59  ls
+   60  Saifurs-MBP:~ sunny$ cd
+   61  Saifurs-MBP:~ sunny$ cd Project/linux/
+   62  Saifurs-MBP:linux sunny$ pwd
+   63  /Users/sunny/Project/linux
+   64  Saifurs-MBP:linux sunny$ mkdir HW
+   65  Saifurs-MBP:linux sunny$ ls
+   66  HWsunny
+   67  clear
+   68  clear
+   69  cd
+   70  cd Project/linux/
+   71  cd HW
+   72  cd
+   73  clear
+   74  history
+   75  clear
+   76  clear
+   77  cd
+   78  pwd
+   79  clear
+   80  cd
+   81  cd Project/
+   82  mkdir pratice
+   83  pwd
+   84  cd
+   85  cd Project/
+   86  pwd
+   87  ls
+   88  cd
+   89  pwd
+   90  clear
+   91  history
+   92  clear
+   93  cd
+   94  cd Desktop/cd
+   95  pwd
+   96  clear
+   97  cd
+   98  cd linux
+   99  pwd
+  100  clear
+  101  cd Project/linux
+  102  mkdir f1 | cd f1| mkdir f2 | cd f2| mkdir f3
+  103  pwd
+  104  mkdir f1| cd f1| mkdir f2| cd f2| mkdir f3
+  105  pwd
+  106  history>hw.txt
+  107  touch hw.html
+  108  cp hw.html nhw.html
+  109  cp hw.html f1 /hw.html
+  110  cp hw.html f1/hw.html
+  111  rm hw.html
+  112  pwd
+  113  ls
+  114  mkdir john
+  115  rm john
+  116  rm -rf john/
+  117  su
+  118  history>hw.txt 
